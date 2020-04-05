@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Константин Овчинников](https://up.htmlacademy.ru/adaptive/19/user/587719).
-* Наставник: `Неизвестно`.
+* Наставник: [Без наставника].
 
 ---
 
